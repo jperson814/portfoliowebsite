@@ -1,0 +1,51 @@
+nav {
+  color:red;
+  font-size:16px;
+  border:4px;
+}
+body {
+  background-color:gray;
+  color:navy;
+  font-family:"trebuchet ms", Arial, Sans Serif;
+  height:100%;
+}
+#contact {
+    align-content:center;
+    text-align:center;
+    background-color:white;
+    color:blue;
+    width: 25%;
+}
+a:link {
+  color:red;
+  font-size:14px;
+  border:4px;
+}
+a:visited {
+  color:green;
+  font-size:12px;
+}
+a:hover {
+  color:yellow;
+  font-size:12px;
+}
+a:active {
+  color:blue;
+  font-size:14px;
+}
+.class1 {
+  justify-content:center;
+  align-content:center;
+  text-align:center;
+}
+table {
+  border:6px;
+  background-color:olive;
+  text-align:center;
+  justify-content:center;
+}
+
+footer {
+  position:absolute;
+  width:100%;
+}
